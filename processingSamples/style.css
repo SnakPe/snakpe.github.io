@@ -1,0 +1,14 @@
+.sketch-options{
+    display: inline-block;
+    
+}
+.sketch-option{
+    display: inline-block;
+    height: 50px;
+    width: 150px;
+    outline: white solid 1px;
+    text-align: center;
+    word-wrap: break-word;
+    vertical-align: middle;
+    line-height: 50px;
+}
