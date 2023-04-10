@@ -1,6 +1,6 @@
 .sketch-options{
     display: inline-block;
-    
+    vertical-align: top;
 }
 .sketch-option{
     display: inline-block;
@@ -11,4 +11,17 @@
     word-wrap: break-word;
     vertical-align: middle;
     line-height: 50px;
+    color: yellow;
+}
+#main-sketch{
+    display: inline-block;
+}
+main{
+    display: inline-block;
+}
+p{  
+    position: relative;
+
+    text-align: center;
+    display: block;
 }
