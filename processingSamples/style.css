@@ -1,6 +1,7 @@
 .sketch-options{
     display: inline-block;
     vertical-align: top;
+    border: white solid 2px;
 }
 .sketch-option{
     display: inline-block;
